@@ -1,4 +1,13 @@
 __pycache__
 .env
 .learn
-/models
+
+# Dataset de imágenes (NO subir)
+data/raw/dogs-vs-cats/
+
+# Modelos entrenados (recomendado ignorarlos)
+models/
+
+# Temporales de notebooks
+.ipynb_checkpoints/
+*.pyc
