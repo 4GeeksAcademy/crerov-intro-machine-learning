@@ -4,9 +4,12 @@ __pycache__
 
 # Dataset de imágenes (NO subir)
 data/raw/dogs-vs-cats/
+data/processed/
 
 # Modelos entrenados (recomendado ignorarlos)
 models/
+*.keras
+*.h5
 
 # Temporales de notebooks
 .ipynb_checkpoints/
